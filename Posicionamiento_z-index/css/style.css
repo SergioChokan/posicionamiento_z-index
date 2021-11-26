@@ -1,0 +1,66 @@
+p {
+    /*  width: 50px;*/
+      position: relative;
+      top: 8px; /* bottom: -5px; */
+      color:rgba(0, 0, 0, )
+      
+  }
+
+img {
+    width: 315px;
+}
+  
+  div {
+      width: 80px;
+      border: 2px #4D0084 solid;
+      background-color: #65FEFE;
+      position: absolute;
+      top: 13px;
+  }
+  
+  .d1 {
+      left: 10px;
+      z-index: 5;
+      background-color: rgba(101, 254, 254, 1);
+      border: 2px solid rgba(77, 0, 132, 1);
+      color:rgba(0, 0, 0, 1);
+  }
+  
+  #d1 {
+      left: 70px;
+      top: 50px;
+      z-index: 4 ;
+      background-color: rgba(101, 254, 254, 0.9);
+      border: 2px solid rgba(77, 0, 132, 0.9);
+      color: rgba(0, 0, 0, 0.9);
+  
+  }
+  
+  .d2 {
+      left: 130px;
+      top: 100px;
+      background-color: rgba(101, 254, 254, 0.8);
+      border: 2px solid rgba(77, 0, 132, 0.8);
+      z-index: 3;
+      color:rgba(0, 0, 0, 0.8);
+  }
+  
+  #d2 {
+      left: 180px;
+      top:150px;
+      z-index: 2;
+      background-color: rgba(101, 254, 254, 0.7);
+      border: 2px solid rgba(77, 0, 132, 0.7);
+      color:rgba(0, 0, 0, 0.7);
+      
+  }
+  
+  .d3 {
+      left: 230px;
+      top:200px;
+      z-index: 1;
+      background-color: rgba(101, 254, 254, 0.7);
+      border: 2px solid rgba(77, 0, 132, 0.7);
+      color:rgba(0, 0, 0, 0.7 );
+  }
+  
